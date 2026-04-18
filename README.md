@@ -58,9 +58,3 @@ I aim to develop technology solutions that are safer and more accessible for eve
 <br>
 
 ---
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ca64f4&height=150&section=footer)
-
-</div>
