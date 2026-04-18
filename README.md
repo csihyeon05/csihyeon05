@@ -21,7 +21,7 @@ I aim to develop technology solutions that are safer and more accessible for eve
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csihyeon9)](https://github.com/csihyeon9/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csihyeon9)](https://github.com/csihyeon05/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=csihyeon05)](https://solved.ac/csihyeon05)
 
