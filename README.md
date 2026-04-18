@@ -38,17 +38,4 @@ I aim to develop robust detection and mitigation methods for training data conta
 </div>
 
 <br>
-
----
-
-## 🏆 Solved.ac Profile
-
-<div align="center">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=csihyeon05)](https://solved.ac/csihyeon05)
-
-</div>
-
-<br>
-
 ---
