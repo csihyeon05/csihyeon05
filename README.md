@@ -1,16 +1,10 @@
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ca64f4&height=250&section=header&text=Sihyun%20Cha&fontSize=60&fontAlign=50&fontAlignY=40&fontColor=ffffff)
-
-</div>
-
 ---
 
 ## About Me 🙋‍♂️
 
-Hello, my name is **Sihyun Cha (Tristan)**, and I am a passionate learner and innovator based in Seoul, South Korea.  
-I specialize in **Artificial Intelligence** and **Cybersecurity**, with experience as a coding mentor and multiple certifications in my fields of interest.  
-I aim to develop technology solutions that are safer and more accessible for everyone. Let's connect and collaborate!
+My research focuses on securing AI/ML systems from a data-centric perspective, particularly addressing challenges in real-world security datasets such as data imbalance, labeling ambiguity, and data staleness. These issues significantly degrade the reliability of training-time defenses, especially in detecting poisoned or corrupted data.
+
+I aim to develop robust detection and mitigation methods for training data contamination, including data poisoning and noisy labeling, by leveraging statistical analysis and machine learning techniques. My goal is to design practical and scalable solutions that can be integrated into MLOps pipelines, enabling reliable model training, continuous monitoring, and adaptive defense against evolving threats.
 
 ### 📍 Location: Seoul, South Korea  
 ### 📧 Email: csihyeon9@gmail.com  
